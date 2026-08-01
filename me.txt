@@ -1,14 +1,7 @@
 welcome to the git and github
 hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
+hello1
+hello2
+
 hellogod rgh
 fjweu

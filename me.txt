@@ -1,1 +1,2 @@
-welcome to the git and github
+welcome to the git and githubh
+hi
